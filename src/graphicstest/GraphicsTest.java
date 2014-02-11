@@ -19,6 +19,7 @@ import org.newdawn.slick.command.MouseButtonControl;
  *
  * @author kevin
  */
+//FUcking A m8
 public class GraphicsTest extends BasicGame implements InputProviderListener {
 	/** The command for attack */
 	private Command attack = new BasicCommand("attack");
